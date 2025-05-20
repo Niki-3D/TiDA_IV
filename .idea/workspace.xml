@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="626fe0cf-4374-4636-8e7f-120301fff8b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Zadanie_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_na_cel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_na_cel/main test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_na_cel/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_na_cel.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in main test.py.executor": "Run",
     "Python.Zadanie_1.executor": "Run",
     "Python.Zadanie_2.executor": "Run",
     "Python.Zadanie_3.executor": "Run",
@@ -52,6 +54,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nbroz\Documents\GitHub\TiDA_IV\Zadanie_na_cel" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Zadanie_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TiDA_IV" />
@@ -101,6 +108,7 @@
       <workItem from="1747316069669" duration="1542000" />
       <workItem from="1747485234231" duration="3463000" />
       <workItem from="1747568333871" duration="1895000" />
+      <workItem from="1747724943106" duration="5440000" />
     </task>
     <servers />
   </component>
@@ -109,8 +117,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TiDA_IV$Zadanie_2.coverage" NAME="Zadanie_2 Coverage Results" MODIFIED="1747487234133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TiDA_IV$Zadanie_na_cel.coverage" NAME="Zadanie_na_cel Coverage Results" MODIFIED="1747570175303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TiDA_IV$Zadanie_3.coverage" NAME="Zadanie_3 Coverage Results" MODIFIED="1747487334963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TiDA_IV$Zadanie_1.coverage" NAME="Zadanie_1 Coverage Results" MODIFIED="1747487224086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TiDA_IV$Zadanie_na_cel.coverage" NAME="Zadanie_na_cel Coverage Results" MODIFIED="1747725550957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TiDA_IV$Zadanie_3.coverage" NAME="Zadanie_3 Coverage Results" MODIFIED="1747725024864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TiDA_IV$Zadanie_1.coverage" NAME="Zadanie_1 Coverage Results" MODIFIED="1747727582234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TiDA_IV$.coverage" NAME=" Coverage Results" MODIFIED="1747728135404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zadanie_na_cel" />
   </component>
 </project>

@@ -11,16 +11,6 @@ class NonDecreasingSequenceGenerator:
         return all_sequences
 
     def _generate_sequences_recursively(self, remaining_sum, minimum_value, current_sequence, all_sequences):
-        """
-        Recursively generate all non-decreasing sequences.
-
-        Args:
-            remaining_sum: The remaining sum to achieve
-            minimum_value: The minimum value allowed for the next number in sequence
-            current_sequence: The current partial sequence being built
-            all_sequences: List to store all valid sequences
-        """
-        # Base case: If remaining sum is 0, we found a valid sequence
         if remaining_sum == 0:
             all_sequences.append(current_sequence.copy())
             return
